@@ -1,1 +1,12 @@
-<h1>결제 취소</h1>
+<!-- cancel.php -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>결제 취소</title>
+</head>
+<body>
+  <h1>결제가 취소되었습니다.</h1>
+  <p>다시 시도하시려면 결제 페이지로 돌아가 주세요.</p>
+</body>
+</html>
